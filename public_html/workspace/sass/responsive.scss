@@ -1,0 +1,37 @@
+/* responsive.css
+ * 
+ * Responsive CSS
+ *
+ * Copyright David Anderson 2013
+*/
+
+/* FOR WIDTHS GREATER THAN 1100px */
+
+
+
+/* Note: Design for a width of 1100px */
+
+@media only screen  and (max-width: 1100px) {
+	
+}
+
+/* small screen heights */
+@media only screen  and (max-height: 700px){
+
+}
+
+
+/* for screens that aren't very tall... */
+@media only screen  and (max-height: 670px){
+	
+}
+
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (orientation : landscape) {
+	
+}
+
+

@@ -1,0 +1,16 @@
+._*
+.Apple*
+.DS_Store
+.localised
+pear/
+.bashrc
+.pearrc
+.bash_history
+.ssh
+.sass-cache
+*~
+*.geany
+public_html/.htaccess
+public_html/manifest
+curl_cookie.txt
+Thumbs.db
